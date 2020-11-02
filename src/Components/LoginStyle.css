@@ -1,0 +1,17 @@
+/* .root{
+    
+} */
+
+.grid{
+    margin: 40;
+    padding: 10px 10px 10px 10px;
+    display: 'flex';
+    background-color: #8c8c8c;
+
+}
+
+.paper{
+    margin: 5px;
+    padding: 10px;
+    background-color: #f2f2f2;
+}
